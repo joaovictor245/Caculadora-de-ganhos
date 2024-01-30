@@ -1,5 +1,7 @@
 # Caculadora-de-ganhos
 
+![calculadora](https://cdn.discordapp.com/attachments/1195860189279162369/1201695402685116455/image.png?ex=65cac10e&is=65b84c0e&hm=ac9139684f95e5555c29c00ada3f7b7f54172e6d4a071c4a457c4cfc3f3194cd&)
+
 # Calculadora Deluxe
 
 Este repositório contém o código-fonte da Calculadora Deluxe, uma aplicação web desenvolvida em HTML, CSS e JavaScript.
